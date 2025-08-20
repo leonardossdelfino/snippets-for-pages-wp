@@ -1,5 +1,7 @@
 # Snippets for Pages WP
-Com este plugin você pode criar páginas completas ou snippets de código utilizando HTML, CSS e JavaScript de forma organizada e centralizada.
+Com este plugin você pode criar páginas completas ou snippets de código de forma organizada e centralizada usando códigos HTML, CSS e JavaScript puros sem a interferência do tema ativo.
+
+Possuí um editor com highlight simples.
 
 <br>
 
