@@ -1,10 +1,10 @@
 <?php
 /**
- * Plugin Name:       Páginas Customizadas (HTML/CSS/JS)
- * Description:       Cria páginas usando código HTML, CSS e JavaScript puros, com editor CodeMirror e sem a interferência do tema ativo.
- * Version:           2.0
- * Author:            Seu Nome
- * Text Domain:       chp
+ * Plugin Name:       Snippets For Pages WP (HTML/CSS/JS)
+ * Description:       Com este plugin você pode criar páginas completas ou snippets de código de forma 
+ *                    organizada e centralizada usando códigos HTML, CSS e JavaScript puros sem a interferência do tema ativo.
+ * Version:           1.0
+ * Author:            Leonardo Delfino
  */
 
 // Se não for acessado pelo WordPress, saia.
